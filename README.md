@@ -19,7 +19,7 @@ Things you may want to cover:
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
-
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby
 * Deployment instructions
 
 *git
