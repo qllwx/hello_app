@@ -1,5 +1,6 @@
 # README
-
+#Ruby on Rails Tutorial
+## "hello, world!"
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -21,4 +22,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+*git
+git config --global user.name "qllwx"
+git config --global user.email "qllwx@live.com"
+git init
+git add -A
+git status
+git commit -m ""
+git checkout -f
+git remote add origin  https://github.com/qllwx/hello_app.git
